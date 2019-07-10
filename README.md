@@ -60,7 +60,7 @@ void draw(SkCanvas* canvas) {
   return;
 }
 ```
-[程序清单 13 7使用归一化的输入](https://fiddle.skia.org/c/cf60a88d26a8f3cde7d2d0390bb36eda)
+[程序清单 13 7 使用归一化的输入](https://fiddle.skia.org/c/cf60a88d26a8f3cde7d2d0390bb36eda)
 ```
 void draw(SkCanvas* canvas) {
   SkPaint paint;
@@ -77,7 +77,7 @@ void draw(SkCanvas* canvas) {
 }
 ```
 
-[程序清单 13 8绘制图形的偏移](https://fiddle.skia.org/c/9ab92018fb8c8d5ef622efb6652f9a35)
+[程序清单 13 8 绘制图形的偏移](https://fiddle.skia.org/c/9ab92018fb8c8d5ef622efb6652f9a35)
 ```
 void draw(SkCanvas* canvas) {
   SkPaint paint;
