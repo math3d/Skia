@@ -1,5 +1,4 @@
-
-
+[English](https://github.com/math3d/Skia/blob/master/README_en_GB.md) | [简体中文](https://github.com/math3d/Skia/blob/master/README.md)
 
 ## 基于网页的Skia测试方法
 
